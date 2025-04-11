@@ -1,5 +1,5 @@
 <!-- Banner (optional) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee9ca7,100:ffdde1&height=200&section=header&text=Hi%20there!%20I'm%20Jo%20👋&fontSize=40&fontAlign=center&animation=fadeIn" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee9ca7,100:ffdde1&height=200&section=header&text=Hi%20there!%20I'm%20Jyothsna%20Treesa%20George%20👋&fontSize=40&fontAlign=center&animation=fadeIn" alt="header"/>
 
 ## 👩‍💻 About Me
 
@@ -36,8 +36,8 @@
 
 ## 📫 Contact Me
 
-💌 [jyothsnatreesagrg@gmail.com]  
-🔗 [linkedin.com/in/jyothsna-treesa-george-6b5290294/]
+💌 [jyothsnatreesagrg@gmail.com]
+🔗 [linkedin.com/in/jyothsna-treesa-george]
 
 ---
 
@@ -47,10 +47,10 @@
 
 ---
 
-<!-- Footer or Badge -->
+<!-- Footer or Badge 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F78DA7&center=true&vCenter=true&multiline=true&width=435&lines=Thanks+for+visiting!+Have+a+great+day!+💻🌸" alt="Typing SVG" />
-</p>
+</p>-->
 
 <!---
 - 👋 Hi, I’m Jyothsna Treesa George
