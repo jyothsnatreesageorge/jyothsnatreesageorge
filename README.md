@@ -36,16 +36,16 @@
 
 ## 📫 Contact Me
 
-💌 [jyothsnatreesagrg@gmail.com]
-🔗 [linkedin.com/in/jyothsna-treesa-george]
+💌 [jyothsnatreesagrg@gmail.com]  
+🔗 [www.linkedin.com/in/jyothsna-treesa-george-]
 
 ---
 
-### ✨ Fun Fact
+<!---### ✨ Fun Fact
 
 > I believe tech is like magic—you just need the right spell (and a few semicolons 😉)!
 
----
+------>
 
 <!-- Footer or Badge 
 <p align="center">
