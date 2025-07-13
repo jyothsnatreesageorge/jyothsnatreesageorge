@@ -5,7 +5,7 @@
 
 🎓 I'm Jyothsna Treesa George, a passionate **Computer Science and Engineering** student at **Rajiv Gandhi Institute of Technology, Kottayam**.  
 🚀 Currently in my **third year**, diving deeper into systems, code, and creativity.  
-👩‍💻 Working on improving my skills in Web Development and Python.
+👩‍💻 Working on improving my skills in Web Development and Python.  
 💡 Participated in **2 exciting hackathons** and built **2 awesome projects** with great teams!  
 🌱 Always exploring new tech and leveling up my coding game.  
 🌟 A blend of logic, curiosity, and a sprinkle of fun!
