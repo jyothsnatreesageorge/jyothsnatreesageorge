@@ -23,6 +23,16 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+ <img src="https://github-readme-stats-opal-two-21.vercel.app/api?username=jyothsnatreesageorge" />
+
+
+</p>
+
+---
+
 ## 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jyothsnatreesageorge&theme=tokyonight" />
