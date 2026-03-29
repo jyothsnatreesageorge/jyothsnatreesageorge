@@ -23,6 +23,13 @@
 
 ---
 
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jyothsnatreesageorge&theme=tokyonight" />
+</p>
+
+---
+
 ## 🌱 Currently Learning
 
 - 🌐 Full Stack Web development (MERN stack)
